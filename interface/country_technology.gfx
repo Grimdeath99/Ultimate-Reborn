@@ -47,7 +47,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_tech_folder_strip"
 		texturefile = "gfx\\interface\\tech_folder_strip.tga"
-		noOfFrames = 5
+		noOfFrames = 6
 	}
 	spriteType = {
 		name = "GFX_tech_invention_strip"
