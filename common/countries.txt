@@ -177,6 +177,7 @@ SPC		= "countries/Carlist Spain.txt"
 SRD		= "countries/Sardinia.txt"
 SVY		= "countries/Savoy.txt"
 SWH		= "countries/Schleswig-Holstein.txt"
+SOR		= "countries/Sorbi.txt"
 WHA		= "countries/Wales.txt"
 
 #Germany
