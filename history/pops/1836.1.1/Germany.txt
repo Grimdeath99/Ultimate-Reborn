@@ -1370,7 +1370,7 @@
 	}
 	
 	clergymen = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 300
 	}
@@ -1400,13 +1400,13 @@
 	}
 	
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 35000
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = sorbian
 		religion = catholic
 		size = 100     
 	}
@@ -1418,7 +1418,7 @@
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = catholic
 		size = 13100     
 	}
@@ -4766,7 +4766,7 @@
 	}
 	
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 5000
 	}

@@ -251,7 +251,7 @@
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = sorbian
 		religion = protestant
 		size = 5000
 	}
@@ -868,7 +868,7 @@
 	}
 	
 		farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 275
 	}
@@ -936,13 +936,13 @@
 	}
 
 		clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 50  
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = protestant
 		size = 3200
 	}
@@ -1028,25 +1028,25 @@
 	}
 
 	clergymen = {
-		culture = western_slavic
+		culture = kashubian
 		religion = catholic
 		size = 50
 	}
 
 	artisans = {
-		culture = western_slavic
+		culture = kashubian
 		religion = catholic
 		size = 350
 	}
 
 	soldiers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = catholic
 		size = 75  
 	}
 
 	farmers = {
-		culture = western_slavic
+		culture = kashubian
 		religion = catholic
 		size = 2625
 	}
